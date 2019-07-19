@@ -8,3 +8,4 @@ echo "me to $answer?!"
 
 echo 'Welcome'
 
+mkdir /root/git/byscript
